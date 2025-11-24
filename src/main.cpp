@@ -10,6 +10,7 @@ using std::getline;
 int main() {
     string name;
 
+    std::cout << "Debugging practice branch!\n";
     cout << "Welcome to your C++ Apprenticeship!\n";
     cout << "Enter your name: ";
     getline(cin, name);
